@@ -3,6 +3,7 @@ package cleancode.minesweeper.asis;
 import java.util.Random;
 import java.util.Scanner;
 
+//asis
 public class MinesweeperGame {
 
     private static String[][] board = new String[8][10];
