@@ -1,4 +1,4 @@
-package cleancode.studycafe.copytobe.model;
+package cleancode.studycafe.copy.model;
 
 public enum StudyCafePassType {
 

@@ -1,6 +1,6 @@
-package cleancode.studycafe.copytobe;
+package cleancode.studycafe.copy;
 
-import cleancode.studycafe.copytobe.StudyCafePassMachine;
+import cleancode.studycafe.tobe.StudyCafePassMachine;
 
 public class StudyCafeApplication {
 

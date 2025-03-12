@@ -1,13 +1,12 @@
-package cleancode.studycafe.copytobe;
+package cleancode.studycafe.copy;
 
-import cleancode.studycafe.copytobe.exception.AppException;
-import cleancode.studycafe.copytobe.io.InputHandler;
-import cleancode.studycafe.copytobe.io.OutputHandler;
-import cleancode.studycafe.copytobe.io.StudyCafeFileHandler;
-import cleancode.studycafe.copytobe.model.StudyCafeLockerPass;
-import cleancode.studycafe.copytobe.model.StudyCafePass;
-import cleancode.studycafe.copytobe.model.StudyCafePassType;
-
+import cleancode.studycafe.copy.exception.AppException;
+import cleancode.studycafe.copy.io.InputHandler;
+import cleancode.studycafe.copy.io.OutputHandler;
+import cleancode.studycafe.copy.io.StudyCafeFileHandler;
+import cleancode.studycafe.copy.model.StudyCafeLockerPass;
+import cleancode.studycafe.copy.model.StudyCafePass;
+import cleancode.studycafe.copy.model.StudyCafePassType;
 import java.util.List;
 
 public class StudyCafePassMachine {

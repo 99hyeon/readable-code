@@ -1,9 +1,8 @@
-package cleancode.studycafe.copytobe.io;
+package cleancode.studycafe.copy.io;
 
-import cleancode.studycafe.copytobe.model.StudyCafeLockerPass;
-import cleancode.studycafe.copytobe.model.StudyCafePass;
-import cleancode.studycafe.copytobe.model.StudyCafePassType;
-
+import cleancode.studycafe.copy.model.StudyCafeLockerPass;
+import cleancode.studycafe.copy.model.StudyCafePass;
+import cleancode.studycafe.copy.model.StudyCafePassType;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;

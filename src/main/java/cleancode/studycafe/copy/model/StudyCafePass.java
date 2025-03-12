@@ -1,6 +1,4 @@
-package cleancode.studycafe.copytobe.model;
-
-import cleancode.studycafe.copytobe.model.StudyCafePassType;
+package cleancode.studycafe.copy.model;
 
 public class StudyCafePass {
 

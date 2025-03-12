@@ -1,9 +1,8 @@
-package cleancode.studycafe.copytobe.io;
+package cleancode.studycafe.copy.io;
 
-import cleancode.studycafe.copytobe.exception.AppException;
-import cleancode.studycafe.copytobe.model.StudyCafePass;
-import cleancode.studycafe.copytobe.model.StudyCafePassType;
-
+import cleancode.studycafe.copy.exception.AppException;
+import cleancode.studycafe.copy.model.StudyCafePass;
+import cleancode.studycafe.copy.model.StudyCafePassType;
 import java.util.List;
 import java.util.Scanner;
 
