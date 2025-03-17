@@ -6,5 +6,4 @@ public interface SeatPassProvider {
 
     StudyCafeSeatPasses getSeatPasses();
 
-
 }
